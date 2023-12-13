@@ -24,7 +24,7 @@
   ##
  
 <div> 
-  <a href="https://www.linkedin.com/in/guilhermearaujo1/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/joseonesimoabelnuvunga" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   
   ![Snake animation](https://github.com/gui1535/gui1535/blob/output/github-contribution-grid-snake.svg)
 </div>
@@ -34,16 +34,17 @@
   <br/>
 <p align="center">
   <a href="https://github.com/gui1535/FeedBeasy">
-    <img width='49%' align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gui1535&repo=FeedBeasy&theme=react" />
+    <img width='49%' align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=onesimo23&repo=FeedBeasy&theme=react" />
   </a>
   <span>&nbsp;</span>
   <a href="https://github.com/gui1535/FeedBack-app">
-    <img width='49%' align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gui1535&repo=FeedBack-app&theme=react" />
+    <img width='49%' align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=onesimo23&repo=FeedBack-app&theme=react" />
   </a>
   <span>&nbsp;</span
 </p> 
   ## -->
  
   
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Ubuntu&color=blue&vCenter=true&lines=Gui1535+thanks+for+your+visit!)]()
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Ubuntu&color=blue&vCenter=true&lines=5
+  onesimo23+thanks+for+your+visit!)]()
 	
