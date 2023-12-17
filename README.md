@@ -1,6 +1,6 @@
 ## Olá, eu sou José Onésimo Abel Nuvunga 
 <div align="center">
-  <a href="https://github.com/gui1535">
+  <a href="https://github.com/onesimo23">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=onesimo23&show_icons=true&theme=dark&include_all_commits=true&count_private=false"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=onesimo23&layout=compact&langs_count=7&theme=dark"/>
 </div>
@@ -26,7 +26,7 @@
 <div> 
   <a href="https://www.linkedin.com/in/joseonesimoabelnuvunga" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   
-  ![Snake animation](https://github.com/gui1535/gui1535/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/onesimo23/onesimo23/blob/output/github-contribution-grid-snake.svg)
 </div>
 	
 	
@@ -37,7 +37,7 @@
     <img width='49%' align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=onesimo23&repo=quizApp&theme=react" />
   </a>
   <span>&nbsp;</span>
-  <a href="https://github.com/gui1535/FeedBack-app">
+  <a href="https://github.com/onesimo23/FeedBack-app">
     <img width='49%' align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=onesimo23&repo=Unisave-Estacionamento&theme=react" />
   </a>
   <span>&nbsp;</span
