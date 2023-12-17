@@ -29,11 +29,11 @@
   ![Snake animation](https://github.com/gui1535/gui1535/blob/output/github-contribution-grid-snake.svg)
 </div>
 	
-<!-- 	
+	
   <summary><b>⚡ My best projects</b></summary>
   <br/>
 <p align="center">
-  <a href="https://github.com/gui1535/FeedBeasy">
+  <a href="https://github.com/onesimo23/FeedBeasy">
     <img width='49%' align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=onesimo23&repo=FeedBeasy&theme=react" />
   </a>
   <span>&nbsp;</span>
@@ -42,9 +42,7 @@
   </a>
   <span>&nbsp;</span
 </p> 
-  ## -->
+ 
  
   
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Ubuntu&color=blue&vCenter=true&lines=5
-  onesimo23+thanks+for+your+visit!)]()
 	
