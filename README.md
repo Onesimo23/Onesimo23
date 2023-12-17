@@ -34,11 +34,11 @@
   <br/>
 <p align="center">
   <a href="https://github.com/onesimo23/FeedBeasy">
-    <img width='49%' align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=onesimo23&repo=FeedBeasy&theme=react" />
+    <img width='49%' align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=onesimo23&repo=quizApp&theme=react" />
   </a>
   <span>&nbsp;</span>
   <a href="https://github.com/gui1535/FeedBack-app">
-    <img width='49%' align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=onesimo23&repo=FeedBack-app&theme=react" />
+    <img width='49%' align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=onesimo23&repo=Unisave-Estacionamento&theme=react" />
   </a>
   <span>&nbsp;</span
 </p> 
